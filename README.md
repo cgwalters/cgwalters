@@ -10,5 +10,6 @@ Other things I currently maintain include:
 
 ## Online/social media
 
-- [blog](https://blog.verbum.org)
+- [colinwalters](colinwalters) on Discord
 - [@cgwalters@fosstodon.org on Mastodon](https://fosstodon.org/@cgwalters).
+- [blog](https://blog.verbum.org)
