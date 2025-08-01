@@ -11,6 +11,6 @@ Other things I currently maintain include:
 ## Online/social media
 
 - [@walters:fedora.im](@walters:fedora.im) on Matrix
-- [@cgwalters@fosstodon.org on Mastodon](https://fosstodon.org/@cgwalters).
-- [colinwalters](colinwalters) on Discord
+- [@cgwalters@fosstodon.org](https://fosstodon.org/@cgwalters) on Mastodon
+- `colinwalters` on Discord
 - [blog](https://blog.verbum.org)
