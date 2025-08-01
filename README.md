@@ -10,6 +10,7 @@ Other things I currently maintain include:
 
 ## Online/social media
 
-- [colinwalters](colinwalters) on Discord
+- [@walters:fedora.im](@walters:fedora.im) on Matrix
 - [@cgwalters@fosstodon.org on Mastodon](https://fosstodon.org/@cgwalters).
+- [colinwalters](colinwalters) on Discord
 - [blog](https://blog.verbum.org)
