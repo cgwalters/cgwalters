@@ -29,6 +29,21 @@ and I attach my name to it) and maintain will be reviewed by me.  Further, I thi
 remains a baseline to have two humans involved, one author and one distinct reviewer
 (but now both may be assisted by LLMs).
 
+I maintain software that is important, and I'm on the receiving end of often large LLM generated
+commits. I will treat *your* project with as much (or more) care as I do for my own.
+
+However, if you get a PR from me, it is very likely that it is *mostly* LLM generated now,
+because as Graydon says:
+
+> I still write some code, but less and less, and more of it is around the margins: touchups, sketches of APIs and data structures, subtle stuff it's easy to be subtly-wrong about, or perhaps LLM-supervisory bits. Because the LLM really does often write the main logic as well as I would at this point, and faster, and more persistently.
+
+My current experience is for deep, nontrivial work, I need to fix up somewhere between 10-15% of obvious LLM garbage (like reimplementing base64 encoding for no obvious reason) that still makes it pass subagent reviews etc. But, who knows what the future will be like.
+
+An advantage for software engineers whose career in FOSS long predates LLMs like mine: you can
+easily see that I have the ability to write e.g. systems level Rust/Go/C etc. If I push
+a PR for a language/framework I don't know well, I will be crystal clear about that in
+the PR description.
+
 ### Assisted-by/Generated-by
 
 You may see this in my commit messages. Typically, I use [OpenCode](https://opencode.ai)
