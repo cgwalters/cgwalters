@@ -49,3 +49,7 @@ the PR description.
 You may see this in my commit messages. Typically, I use [OpenCode](https://opencode.ai)
 with a mixture of foundation models (Gemini and Claude). You can see my AGENTS.md
 and opencode config in my [dotfiles repo](https://github.com/cgwalters/homegit).
+
+I also operate [@cgwalters-bot](https://github.com/cgwalters-bot), a semi-autonomous
+agent account that helps with my upstream work; its [README](https://github.com/cgwalters-bot/cgwalters-bot#readme)
+explains what it does. I'm responsible for it, so if it causes you a problem, mention me.
